@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://arsen-markaryan.github.io/sitemap.xml
+Sitemap: https://arsen-markaryan-kurs.github.io/sitemap.xml
